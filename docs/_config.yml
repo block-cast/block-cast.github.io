@@ -1,10 +1,10 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
-siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
+url: "https://www.block-cast.de"
+baseurl: "/blockcast"
+siteIcon: /blockcast.png
+siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
