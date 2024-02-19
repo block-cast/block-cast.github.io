@@ -1,6 +1,6 @@
 ---
-layout: page
-navname: About
+layout: redirect
+tourl: https://link.block-cast.de/discord
 ---
 
 # {{ site.serverName }}
