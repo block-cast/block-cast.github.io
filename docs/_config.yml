@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "https://www.block-cast.de"
 baseurl: "/"
-siteIcon: /media/blockcast.png
+siteIcon: /media/BlockCast.png
 siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: true
